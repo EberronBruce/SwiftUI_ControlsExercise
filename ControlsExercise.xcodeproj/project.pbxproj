@@ -11,6 +11,7 @@
 		7A761E5F2A8F2DB0005B4F4E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A761E5E2A8F2DB0005B4F4E /* ContentView.swift */; };
 		7A761E612A8F2DB1005B4F4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A761E602A8F2DB1005B4F4E /* Assets.xcassets */; };
 		7A761E642A8F2DB1005B4F4E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A761E632A8F2DB1005B4F4E /* Preview Assets.xcassets */; };
+		7A761E6B2A8F2DDE005B4F4E /* ReservationCalendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A761E6A2A8F2DDE005B4F4E /* ReservationCalendar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7A761E5E2A8F2DB0005B4F4E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7A761E602A8F2DB1005B4F4E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A761E632A8F2DB1005B4F4E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7A761E6A2A8F2DDE005B4F4E /* ReservationCalendar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReservationCalendar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7A761E5C2A8F2DB0005B4F4E /* ControlsExerciseApp.swift */,
 				7A761E5E2A8F2DB0005B4F4E /* ContentView.swift */,
+				7A761E6A2A8F2DDE005B4F4E /* ReservationCalendar.swift */,
 				7A761E602A8F2DB1005B4F4E /* Assets.xcassets */,
 				7A761E622A8F2DB1005B4F4E /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A761E5F2A8F2DB0005B4F4E /* ContentView.swift in Sources */,
+				7A761E6B2A8F2DDE005B4F4E /* ReservationCalendar.swift in Sources */,
 				7A761E5D2A8F2DB0005B4F4E /* ControlsExerciseApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
